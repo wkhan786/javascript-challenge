@@ -1,3 +1,5 @@
+Please visit my [deployed GitHub Pages website](https://wkhan786.github.io/javascript-challenge/UFO-level-1/index.html)
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
